@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/OleBo/Stock-Prediction-Models/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-Apache--License--2.0-yellow.svg"></a>
+  <a href="/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-Apache--License--2.0-yellow.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/deeplearning-30--models-success.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/agent-23--models-success.svg"></a>
 </p>
@@ -14,18 +14,18 @@
 **Stock-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 
 ## Table of contents
-  * [Models](https://github.com/OleBo/Stock-Prediction-Models#models)
-  * [Agents](https://github.com/OleBo/Stock-Prediction-Models#agents)
+  * [Models](#models)
+  * [Agents](#agents)
   * [Realtime Agent](realtime-agent)
-  * [Data Explorations](https://github.com/OleBo/Stock-Prediction-Models#data-explorations)
-  * [Simulations](https://github.com/OleBo/Stock-Prediction-Models#simulations)
-  * [Tensorflow-js](https://github.com/OleBo/Stock-Prediction-Models#tensorflow-js)
-  * [Misc](https://github.com/OleBo/Stock-Prediction-Models#misc)
-  * [Results](https://github.com/OleBo/Stock-Prediction-Models#results)
-    * [Results Agent](https://github.com/OleBo/Stock-Prediction-Models#results-agent)
-    * [Results signal prediction](https://github.com/OleBo/Stock-Prediction-Models#results-signal-prediction)
-    * [Results analysis](https://github.com/OleBo/Stock-Prediction-Models#results-analysis)
-    * [Results simulation](https://github.com/OleBo/Stock-Prediction-Models#results-simulation)
+  * [Data Explorations](#data-explorations)
+  * [Simulations](#simulations)
+  * [Tensorflow-js](#tensorflow-js)
+  * [Misc](#misc)
+  * [Results](#results)
+    * [Results Agent](#results-agent)
+    * [Results signal prediction](#results-signal-prediction)
+    * [Results analysis](#results-analysis)
+    * [Results simulation](#results-simulation)
 
 ## Contents
 
