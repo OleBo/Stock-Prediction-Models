@@ -6,10 +6,10 @@ To install this repository and run the Jupyter notebooks on your machine, you wi
 Next, clone this repository by opening a terminal and typing the following commands:
 
     $ cd $HOME  # or any other development directory you prefer
-    $ git clone https://github.com/ageron/handson-ml2.git
+    $ git clone https://github.com/OleBo/Prediction-Models-Finance.git
     $ cd handson-ml2
 
-If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml2/archive/master.zip), unzip it, rename the resulting directory to `handson-ml2` and move it to your development directory.
+If you do not want to install git, you can instead download [master.zip](https://github.com/OleBo/Prediction-Models-Finance/archive/master.zip), unzip it, rename the resulting directory to `Prediction-Models-Finance` and move it to your development directory.
 
 ## Install Anaconda
 Next, you will need Python 3.6 or 3.7 and a bunch of Python libraries. The simplest way to install these is to use Anaconda, which is a great cross-platform Python distribution for scientific computing. It comes bundled with many scientific libraries, including NumPy, Pandas, Matplotlib, Scikit-Learn and much more, so it's quite a large installation. If you choose to [download and install Anaconda](https://www.anaconda.com/distribution/), just make sure to install the Python 3 version. If you prefer a lighter weight Anaconda distribution, you can [install Miniconda](https://docs.conda.io/en/latest/miniconda.html), which contains the bare minimum to run the `conda` packaging tool.
@@ -60,6 +60,6 @@ Congrats! You are ready to learn Machine Learning, hands on!
 When you're done with Jupyter, you can close it by typing Ctrl-C in the Terminal window where you started it. Every time you want to work on this project, you will need to open a Terminal, and run:
 
     $ cd $HOME # or whatever development directory you chose earlier
-    $ cd handson-ml2
+    $ cd Prediction-Models-Finance
     $ conda activate tf2
     $ jupyter notebook
