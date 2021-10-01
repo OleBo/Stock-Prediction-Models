@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "pmf"
+version = "0.1.0"
+description = "data science project, financial data, models and algorithms"
+authors = ["Olaf Bochmann <Olaf.Bochmann@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7.6"
+pandas = "^1.2.0"
+numpy = "^1.19.5"
+scipy = "^1.6.0"
+ipython = "^7.19.0"
+sympy = "^1.7.1"
+matplotlib = "^3.3.3"
+statsmodels = "^0.12.1"
+pytest = {version = "^5.4.3", optional = true}
+pytest-cov = {version = "^2.10.1", optional = true}
+autopep8 = {version = "^1.5.4", optional = true}
+flake8 = {version = "^3.8.4", optional = true}
+tensorflow = "^2.4.1"
+sklearn = "^0.0"
+seaborn = "^0.11.1"
+riskparityportfolio = "^0.2"
+jaxlib = "^0.1.61"
+pandas-datareader = "^0.9.0"
+pmdarima = "^1.8.0"
+jupytext = "^1.11.1"
+jupyter-contrib-nbextensions = "^0.5.1"
+nbconvert = "^5.1.3"
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0.0"
+pylint = "^2.6.0"
+
+[tool.poetry.extras]
+tests = ["pytest", "pytest-cov","flake8", "autopep8"]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
